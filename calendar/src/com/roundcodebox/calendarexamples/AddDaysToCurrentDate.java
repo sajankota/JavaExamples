@@ -6,10 +6,12 @@ This example shows how to add or substract days in current date and time values
 using Java Calendar class.
 */
 
-/*
- * Typical output would be Current date : 12-25-2007 date after one day :
- * 12-26-2007 date before 10 days : 12-15-2007
- */
+/* Typical output would be :
+ * Current date : 3-8-2019
+date after one day : 3-9-2019
+date before 10 days : 2-26-2019
+*/
+
 import java.util.Calendar;
 
 public class AddDaysToCurrentDate {
