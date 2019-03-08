@@ -8,11 +8,11 @@ using Java Calendar class.
 
 /*
 Typical output would be
-Current Date : 12-25-2007
-Current time : 18:31:42
-New time after adding 10 hours : 4:31:42
-New date after adding 10 hours : 12-26-2007
-Time before 3 hours : 15:31:42
+Current Date : 3-8-2019
+Current time : 15:41:25
+New time after adding 10 hours : 1:41:25
+New date after adding 10 hours : 3-9-2019
+Time before 3 hours : 12:41:25
  */
 
 import java.util.Calendar;
